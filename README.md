@@ -1,5 +1,3 @@
-# UEC
-- Computer Literacy
-  ：学部1年前学期授業 コンピュータリテラシー
-  -java
+# Computer Literacy：学部1年前学期授業 コンピュータリテラシー
+- java
   ：自由にWebページを設計する課題で、好きなアーティストを紹介するページを作成しました。
